@@ -1,0 +1,11 @@
+/* make content area full width in wide mode */
+.max-w-7xl {
+  max-width: 100%;
+}
+/* Optional: Set the default (non-wide) mode to 100% as well */
+:root {
+  --ls-main-content-max-width: 100%;
+  
+  --ct-text-size: 12px; /* General text font size */
+  --ct-line-height: 1.2; /* Optional: set line height */
+}
