@@ -1,9 +1,8 @@
 # Travel-to-Turkiye
-- ## 문화
-  logseq.order-list-type:: number
-- ## 언어
-  logseq.order-list-type:: number
-- ## 일정
-  logseq.order-list-type:: number
+- ## [[역사]]
+- ## [[문화]]
+	- 터키 문화
+- ## [[언어]]
+	-
+- ## [[일정]]
 - ## 기타
-  logseq.order-list-type:: number
