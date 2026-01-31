@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "e31d4434eb5dc1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b1ac3c40617d16d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41c06aa1adbb870b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/Itinerary_Receipt_1769331922735_0.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Itinerary_Receipt_1769331922735_0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfee4b8ce8c4fafe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e81dc426c9dcd1a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "803954fdc55d63be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eec2fd92fe832833",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "fcbfb69aa6f1e1ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e02ffcf63acbf568",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd61c5854257f78d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6db8aeb70d39d0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/일정.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "일정 의 백링크"
+            }
+          },
+          {
+            "id": "46f7a42b206d9268",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/일정.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "일정 의 나가는 링크"
+            }
+          },
+          {
+            "id": "1d8a88886f28c91c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "1aaed6e42d45e7e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "abc0f49a407f510b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/일정.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "일정 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "41c06aa1adbb870b",
+  "lastOpenFiles": [
+    "assets/image_1769844550195_0.png",
+    "pages/렌트카.md",
+    "pages/이스탄불.md",
+    "logseq/bak/pages/일정/2026-01-31T06_47_41.953Z.Desktop.md",
+    "logseq/bak/pages/일정",
+    "pages/일정.md",
+    "pages/터키어 여행.md",
+    "pages/contents.md",
+    "assets/Itinerary_Receipt_1769331922735_0.pdf",
+    "README.md",
+    "pages/hls__Itinerary_Receipt_1769331922735_0.md",
+    "assets/Itinerary_Receipt_1769331922735_0.edn",
+    "assets",
+    "logseq/bak/README/2026-01-25T08_59_25.582Z.Desktop.md",
+    "logseq/bak/README",
+    "logseq/bak/pages/터키어 여행/2026-01-25T08_59_25.579Z.Desktop.md",
+    "logseq/bak/pages/언어/2026-01-25T08_59_25.576Z.Desktop.md",
+    "logseq/bak/pages/contents/2026-01-25T08_59_25.572Z.Desktop.md",
+    "logseq/bak/pages/터키어 여행",
+    "logseq/bak/pages/언어",
+    "logseq/bak/pages/contents",
+    "logseq/bak/pages",
+    "pages/언어.md",
+    "pages/알파벳.md",
+    "pages/터키어 기본어휘.md"
+  ]
+}
